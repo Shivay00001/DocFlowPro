@@ -1,0 +1,10 @@
+{
+  "collect_invoices": false,
+  "verify_gst": false,
+  "match_bank": false,
+  "calculate_tax": false,
+  "file_gstr1": false,
+  "file_gstr3b": false,
+  "pay_liability": false,
+  "download_ack": false
+}
