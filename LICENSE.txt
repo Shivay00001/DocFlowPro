@@ -1,0 +1,70 @@
+DocFlow Pro - Commercial Software License
+==========================================
+
+Copyright © 2025. All Rights Reserved.
+
+PROPRIETARY SOFTWARE - NOT OPEN SOURCE
+
+This software is protected by copyright law and international treaties. Unauthorized 
+reproduction or distribution of this software, or any portion of it, may result in 
+severe civil and criminal penalties, and will be prosecuted to the maximum extent 
+possible under law.
+
+GRANT OF LICENSE
+----------------
+This software is licensed, not sold. Subject to payment of applicable license fees, 
+you are granted a limited, non-exclusive, non-transferable license to use this 
+software strictly in accordance with the terms set forth below.
+
+RESTRICTIONS
+------------
+YOU MAY NOT:
+- Reverse engineer, decompile, or disassemble the software
+- Rent, lease, or lend the software
+- Transfer the software without prior written consent
+- Remove or alter any copyright, trademark, or other proprietary notices
+- Use the software for illegal purposes
+- Distribute the software to third parties without authorization
+
+WARRANTY DISCLAIMER
+------------------
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+LIMITATION OF LIABILITY
+----------------------
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+PAYMENT PROCESSING
+-----------------
+This software integrates with third-party payment processors. We are not responsible 
+for any financial transactions, payment errors, or losses incurred through use of 
+payment gateway services.
+
+DATA PRIVACY
+-----------
+Users are responsible for compliance with applicable data protection regulations 
+(GDPR, etc.) when handling customer data through this software.
+
+TERMINATION
+----------
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice if you fail to comply with any term(s) of 
+this license.
+
+GOVERNING LAW
+------------
+This agreement shall be governed by the laws of India, without regard to its conflict 
+of law provisions.
+
+SUPPORT
+-------
+Technical support is provided via email only. Response times may vary based on plan
+level.
+
+For questions about this license, contact: support@yourcompany.com
+
+Last Updated: 2025-12-19
